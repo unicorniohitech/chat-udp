@@ -9,7 +9,7 @@ Implementação de comunicação UDP utilizando a biblioteca Socket na linguagem
 linha de comando no terminal de cada um dos clientes conectados à sala.
 
 ### Vídeo do programa
-Link: _https://drive.google.com/file/d/1-geHDXtXxNPqR8PzOMX_egfZdcNWF0dW/view?usp=sharing_
+Link: https://drive.google.com/file/d/1swtrB_cqpX13lRsRF3rs3w7IUJx_TX4S/view?usp=sharing
 
 ### Como rodar o programa
 
@@ -40,7 +40,7 @@ Link: _https://drive.google.com/file/d/1-geHDXtXxNPqR8PzOMX_egfZdcNWF0dW/view?us
 Implementação de um sistema de chat básico com transferência confiável, utilizando o protocolo RDT 3.0 conforme descrito por Kurose. Ele inclui detecção de erros por meio de checksum, confirmações ACK, timeout e retransmissão de pacotes. As etapas do processo são detalhadas em tempo de execução para garantir coerência e compreensão do funcionamento do algoritmo.
 
 ### Vídeo do programa
-Link: https://drive.google.com/drive/folders/1RT74NifMiDD99UB8kvL0cReprGwmmk2Z?usp=sharing
+Link: https://drive.google.com/file/d/1YwvlGQLFI0IaTYv2s3GfvFxdV1-MJKo_/view?usp=sharing
 
 ### Como rodar o programa
 
